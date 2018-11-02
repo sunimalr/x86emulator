@@ -1,10 +1,4 @@
-CS6270-Virtual Machines
-Programming Assignment 1
-
-Sunimal Rathnayake
-Matric: A0134671H
-sunimalr@comp.nus.edu.sg
-
+Simple x86 instruction decoder.
 -----------------------------------------------------------------------------------
 
 HOW TO COMPILE AND RUN:(ON LINUX)
